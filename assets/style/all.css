@@ -243,7 +243,7 @@ a {
 
 .banner {
   height: 840px;
-  background: url(images/banner.png) no-repeat;
+  background: url(../images/banner.png) no-repeat;
   background-size: cover;
   background-position: center; }
   .banner__solgan {
@@ -362,17 +362,17 @@ a {
 
 @media (max-width: 767px) {
   .main__classic__item__bg1 {
-    background: url(images/product-1.png) no-repeat center/cover;
+    background: url(../images/product-1.png) no-repeat center/cover;
     height: 134px; } }
 
 @media (max-width: 767px) {
   .main__classic__item__bg2 {
-    background: url(images/product-2.png) no-repeat center/cover;
+    background: url(../images/product-2.png) no-repeat center/cover;
     height: 134px; } }
 
 @media (max-width: 767px) {
   .main__classic__item__bg3 {
-    background: url(images/product-3.png) no-repeat center/cover;
+    background: url(../images/product-3.png) no-repeat center/cover;
     height: 134px; } }
 
 .f-style {
@@ -385,7 +385,7 @@ a {
       font-size: 28px; } }
 
 .design {
-  background: url(images/bg.png) no-repeat;
+  background: url(../images/bg.png) no-repeat;
   background-size: cover;
   background-position: center;
   padding-top: 60px;
@@ -432,10 +432,10 @@ a {
       height: 291px; } }
 
 .designPic-left {
-  background: url(images/product-8.png) no-repeat center/cover; }
+  background: url(../images/product-8.png) no-repeat center/cover; }
 
 .designPic-right {
-  background: url(images/product-9.png) no-repeat center/cover; }
+  background: url(../images/product-9.png) no-repeat center/cover; }
 
 .designSubtitle {
   font-size: 72px;
@@ -725,10 +725,10 @@ a {
       height: 148px; } }
 
 .opticalAd-1 {
-  background: url(images/banner-1.png) no-repeat center/cover; }
+  background: url(../images/banner-1.png) no-repeat center/cover; }
 
 .opticalAd-2 {
-  background: url(images/banner-2.png) no-repeat center/cover; }
+  background: url(../images/banner-2.png) no-repeat center/cover; }
 
 .productBlock {
   text-align: center; }
@@ -781,40 +781,40 @@ a {
   height: 164px; }
 
 .opticalPic-1 {
-  background: url(images/products-1.png) no-repeat center/cover; }
+  background: url(../images/products-1.png) no-repeat center/cover; }
 
 .opticalPic-2 {
-  background: url(images/products-2.png) no-repeat center/cover; }
+  background: url(../images/products-2.png) no-repeat center/cover; }
 
 .opticalPic-3 {
-  background: url(images/products-3.png) no-repeat center/cover; }
+  background: url(../images/products-3.png) no-repeat center/cover; }
 
 .opticalPic-4 {
-  background: url(images/products-4.png) no-repeat center/cover; }
+  background: url(../images/products-4.png) no-repeat center/cover; }
 
 .opticalPic-5 {
-  background: url(images/products-5.jpg) no-repeat center/cover; }
+  background: url(../images/products-5.jpg) no-repeat center/cover; }
 
 .opticalPic-6 {
-  background: url(images/products-6.jpg) no-repeat center/cover; }
+  background: url(../images/products-6.jpg) no-repeat center/cover; }
 
 .opticalPic-7 {
-  background: url(images/products-7.jpg) no-repeat center/cover; }
+  background: url(../images/products-7.jpg) no-repeat center/cover; }
 
 .opticalPic-8 {
-  background: url(images/products-8.jpg) no-repeat center/cover; }
+  background: url(../images/products-8.jpg) no-repeat center/cover; }
 
 .opticalPic-9 {
-  background: url(images/products-9.jpg) no-repeat center/cover; }
+  background: url(../images/products-9.jpg) no-repeat center/cover; }
 
 .opticalPic-10 {
-  background: url(images/products-10.jpg) no-repeat center/cover; }
+  background: url(../images/products-10.jpg) no-repeat center/cover; }
 
 .opticalPic-11 {
-  background: url(images/products-11.jpg) no-repeat center/cover; }
+  background: url(../images/products-11.jpg) no-repeat center/cover; }
 
 .opticalPic-12 {
-  background: url(images/products-12.jpg) no-repeat center/cover; }
+  background: url(../images/products-12.jpg) no-repeat center/cover; }
 
 .productColor {
   font-size: 1.5rem; }
